@@ -1,0 +1,2 @@
+# 30_days_of_python_code_Numpy_challenge_2023
+I__challenge_myself_on_numpy
